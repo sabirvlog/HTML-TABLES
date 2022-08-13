@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    padding: 15px;
+    background: radial-gradient(black, transparent);
+    color: aliceblue;
+}
+table {
+	margin: 25px auto 10px;
+	color: white;
+	background-color: black;
+	border: 2px solid royalblue;
+	text-align: center;
+}
+th,td {
+	padding: 10px;
+	font-size: 22px;
+	text-transform: capitalize;
+}
+td {
+	font-size: 17px;
+}
+tfoot td {
+	font-size: 20px;
+	font-weight: bolder;
+}
+footer {
+	text-align: center;
+    letter-spacing: 2px;
+    background: blue;
+    padding: 20px;
+    font-size: 20px;
+    color: floralwhite;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
